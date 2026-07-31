@@ -1,4 +1,4 @@
-U can watch sorting examples here using these links: -
+U can watch sorting visualised here using these links: -
 
 Algorithm 1- Bubble sort
 https://drive.google.com/file/d/1ejqhHG89Z2zkWK3ffpDiEjdqNUDGn3vj/view?usp=sharing
