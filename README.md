@@ -1,3 +1,7 @@
+sort.cpp has code for bubble sort, selection sort
+generic_sorts.cpp has code for insertion sort and merge sort
+custom merge sort is merge sort customised to split into k rather than 2(left and right)
+
 U can watch sorting visualised here using these links: -
 
 Algorithm 1- Bubble sort
